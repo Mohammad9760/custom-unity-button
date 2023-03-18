@@ -1,5 +1,7 @@
 # custom-unity-button
 
+here's the video demonstration: http://youtu.be/3Zcdc33xbFQ
+
 using this script on your UI gameobjects you can detect clicks and double clicks using conditionals.
 create a variable of type Btn and use it in an if statement.
 eg:
